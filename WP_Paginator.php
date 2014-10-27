@@ -17,6 +17,8 @@ class WP_Paginator
             'disabled' => 'disabled',
             'active'   => 'active',
             'before'   => null,
+            'prev'     => null,
+            'after'    => null,
             'first'    => null,
             'last'     => null,
             'back'     => null,
